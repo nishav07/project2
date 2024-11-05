@@ -7,3 +7,5 @@ created by nishav kumar
 # git push
 
 git push -u origin main 
+
+line using just git push
